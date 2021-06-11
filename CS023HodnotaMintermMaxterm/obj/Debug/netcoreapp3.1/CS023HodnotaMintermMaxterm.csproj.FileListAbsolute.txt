@@ -1,0 +1,13 @@
+C:\Users\kajah\OneDrive - SPS-CL\3. ročník\1. pololetí\Programování\C#\CS023HodnotaMintermMaxterm\CS023HodnotaMintermMaxterm\bin\Debug\netcoreapp3.1\CS023HodnotaMintermMaxterm.exe
+C:\Users\kajah\OneDrive - SPS-CL\3. ročník\1. pololetí\Programování\C#\CS023HodnotaMintermMaxterm\CS023HodnotaMintermMaxterm\bin\Debug\netcoreapp3.1\CS023HodnotaMintermMaxterm.deps.json
+C:\Users\kajah\OneDrive - SPS-CL\3. ročník\1. pololetí\Programování\C#\CS023HodnotaMintermMaxterm\CS023HodnotaMintermMaxterm\bin\Debug\netcoreapp3.1\CS023HodnotaMintermMaxterm.runtimeconfig.json
+C:\Users\kajah\OneDrive - SPS-CL\3. ročník\1. pololetí\Programování\C#\CS023HodnotaMintermMaxterm\CS023HodnotaMintermMaxterm\bin\Debug\netcoreapp3.1\CS023HodnotaMintermMaxterm.runtimeconfig.dev.json
+C:\Users\kajah\OneDrive - SPS-CL\3. ročník\1. pololetí\Programování\C#\CS023HodnotaMintermMaxterm\CS023HodnotaMintermMaxterm\bin\Debug\netcoreapp3.1\CS023HodnotaMintermMaxterm.dll
+C:\Users\kajah\OneDrive - SPS-CL\3. ročník\1. pololetí\Programování\C#\CS023HodnotaMintermMaxterm\CS023HodnotaMintermMaxterm\bin\Debug\netcoreapp3.1\CS023HodnotaMintermMaxterm.pdb
+C:\Users\kajah\OneDrive - SPS-CL\3. ročník\1. pololetí\Programování\C#\CS023HodnotaMintermMaxterm\CS023HodnotaMintermMaxterm\obj\Debug\netcoreapp3.1\CS023HodnotaMintermMaxterm.csprojAssemblyReference.cache
+C:\Users\kajah\OneDrive - SPS-CL\3. ročník\1. pololetí\Programování\C#\CS023HodnotaMintermMaxterm\CS023HodnotaMintermMaxterm\obj\Debug\netcoreapp3.1\CS023HodnotaMintermMaxterm.AssemblyInfoInputs.cache
+C:\Users\kajah\OneDrive - SPS-CL\3. ročník\1. pololetí\Programování\C#\CS023HodnotaMintermMaxterm\CS023HodnotaMintermMaxterm\obj\Debug\netcoreapp3.1\CS023HodnotaMintermMaxterm.AssemblyInfo.cs
+C:\Users\kajah\OneDrive - SPS-CL\3. ročník\1. pololetí\Programování\C#\CS023HodnotaMintermMaxterm\CS023HodnotaMintermMaxterm\obj\Debug\netcoreapp3.1\CS023HodnotaMintermMaxterm.csproj.CoreCompileInputs.cache
+C:\Users\kajah\OneDrive - SPS-CL\3. ročník\1. pololetí\Programování\C#\CS023HodnotaMintermMaxterm\CS023HodnotaMintermMaxterm\obj\Debug\netcoreapp3.1\CS023HodnotaMintermMaxterm.dll
+C:\Users\kajah\OneDrive - SPS-CL\3. ročník\1. pololetí\Programování\C#\CS023HodnotaMintermMaxterm\CS023HodnotaMintermMaxterm\obj\Debug\netcoreapp3.1\CS023HodnotaMintermMaxterm.pdb
+C:\Users\kajah\OneDrive - SPS-CL\3. ročník\1. pololetí\Programování\C#\CS023HodnotaMintermMaxterm\CS023HodnotaMintermMaxterm\obj\Debug\netcoreapp3.1\CS023HodnotaMintermMaxterm.genruntimeconfig.cache
